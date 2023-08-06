@@ -12,11 +12,11 @@ align-items: center;
 padding: 24px 0;
 }
 .cabeçalho_imagem
-width:como-plantar-pimenta-biquinho.jpg" 7%;
+width:
 
 
 .cabeçalho_titulo{
-font-size: 50px;
+font-size: 50px
 }
 
 .cabeçalho_lista_item{
@@ -33,6 +33,7 @@ padding: 24px 0;
 }
 
 .titulo_apresentaçao_trabalho{
+    background-image: linear-gradient(lemonchiffon, #dd371a);background-image: linear-gradient(lemonchiffon, #dd371a);    
 font-size: 30px;
     }
 
